@@ -4,3 +4,6 @@ title: Lunch with Lucy
 sass:
   sass_dir: _sass
   style: :compressed
+
+
+baseurl: "/lunchwithlucy"
