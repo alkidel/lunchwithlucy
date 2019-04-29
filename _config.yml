@@ -1,0 +1,8 @@
+name: Lunch with Lucy
+title: Lunch with Lucy
+
+baseurl: /project
+
+sass:
+  sass_dir: _sass
+  style: :compressed
