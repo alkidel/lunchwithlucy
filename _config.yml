@@ -7,3 +7,14 @@ sass:
 
 
 baseurl: /lunchwithlucy/
+
+plugins:
+  - jekyll-compress-images
+
+imageoptim:
+  pngout: false
+  svgo: true
+  verbose: false
+
+compress_images:
+  images_path: "assets/images/**/*.{gif,png,jpg,jpeg,svg}"
