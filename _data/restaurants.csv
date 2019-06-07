@@ -1,7 +1,7 @@
 Restaurant,Date,Category,Phrase,Address,Link,Photo,Photo_2,Photo_3
 The Bottle Shop,16-Oct-2017,Pub,,"5 Rue Trousseau, 75011 Paris",https://www.timeout.fr/paris/bar/the-bottle-shop,171016-Bottleshop_2.jpg,171016-Bottleshop.jpg,
 Il Modigliani,30-Oct-2017,Italian,,"172 Rue du Faubourg Saint-Antoine, 75012 Paris",https://goo.gl/maps/zN9cKyeeWp22,171030-Modiglianis.jpg,,
-Lucy's,6-Nov-2017,Amazing,,Metro Michel Bizot,,171106-Lunch_at_Lucys.jpg,,
+Lucy's,6-Nov-2017,Home cooking,,Metro Michel Bizot,,171106-Lunch_at_Lucys.jpg,,
 Quatres Amis,11-Jan-2018,Chinese,,"29 Rue de Charenton, 75012 Paris",https://www.lafourchette.com/restaurant/quatre-amis/393117,180111-Quatre_Amis.jpg,,
 Tang,27-Feb-2018,Chinese,,"18 Rue Daval, 75011 Paris",https://goo.gl/maps/mmU2j3Y7vwu,180227-Tang.jpg,,
 Atelier Annam,16-Apr-2018,Vietnamese,,"25 Rue de Cotte, 75012 Paris",https://goo.gl/maps/osrMH4Wh5Ky,180416-Atelier_Annam_3.jpg,180416-Atelier_Annam_2.jpg,180416-Atelier_Annam.jpg
@@ -26,4 +26,6 @@ Paya Thai,17-Dec-2018,Thai,,"30 Rue d'Aligre, 75012 Paris",https://goo.gl/maps/o
 La Brigade,22-Jan-2019,Meat,,"103 Rue Oberkampf, 75011 Paris",https://goo.gl/maps/oJKJvyRs9Gv,190122-Brigade.jpg,,
 La Cicciolina,5-Feb-2019,Italian,,"11 Rue Crespin du Gast, 75011 Paris",https://goo.gl/maps/mW6hDfp6uKP2,190205-La_Cicciolina.jpg,,
 Le Servan,13-Mar-2019,Fancy French,,"32 Rue Saint-Maur, 75011 Paris",https://goo.gl/maps/ToKytMqzkss,190313-Le_Servan_2.jpg,,
-Holybelly 5,30-Apr-2019,American Breakfast,,"5 Rue Lucien Sampaix, 75010",https://goo.gl/maps/pPoUVARmmNi9KH7U6,194030-Holybelly.jpg,,
+Holybelly 5,30-Apr-2019,American Breakfast,,"5 Rue Lucien Sampaix, 75010",https://goo.gl/maps/pPoUVARmmNi9KH7U6,190430-Holybelly.jpg,,
+Café des Anges,23-May-2019,French Brasserie,,"66 Rue de la Roquette, 75011 Paris",https://goo.gl/maps/pRh8UZCarVXRwRNs9,190523-Cafe_des_Anges.jpg,,
+Atelier Auger,7-Jun-2019,Bakery Workshop,,"5 Rue Auger, 75020 Paris",https://goo.gl/maps/Prmf4DE4twkSzYCF6,190607-Atelier_Auger.jpg,,
